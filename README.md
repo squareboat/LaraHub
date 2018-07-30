@@ -21,7 +21,7 @@ You've to just run a couple of commands to setup your enviornment which is fully
 git clone https://github.com/squareboat/LaraHub.git
 ```
 
-**Note:** Can also use [Git Submodule Concept](https://git-scm.com/book/en/v2/Git-Tools-Submodules) (will update soon)
+**Note:** Can also use [Git Submodule Concept](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 
 2. Enter into the `larahub` directory and run these containers in detach mode (in background)
 
